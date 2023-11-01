@@ -1,0 +1,40 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.purple{
+    background-color: purple;
+    border: none;
+    text-decoration: none;
+    
+
+}
+
+.green{
+    background-color: green;
+    text-decoration: none;
+    
+}
+.red{
+    background-color: red;
+    text-decoration: none;
+    
+}
+
+.blue{
+    background-color: turquoise;
+    text-decoration: none;
+    
+    
+}
+
+
+.moveBtn{
+    display: flex;
+    justify-content: right;
+}
